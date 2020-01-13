@@ -1,6 +1,6 @@
-# birthday
+# birthday 🎂
 
-_ a small utility for exploring the birthday paradox with hash functions_
+_a small utility for exploring the [birthday problem](https://en.wikipedia.org/wiki/Birthday_problem) with hash functions_
 
 ## Installation
 ```shell
