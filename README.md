@@ -4,7 +4,7 @@ _a small utility for exploring the [birthday problem](https://en.wikipedia.org/w
 
 ## Installation
 ```shell
-$ go install github.com/stripedpajamas/birthday/cmd/...
+$ go get github.com/stripedpajamas/birthday/cmd/...
 $ birthday -h
 ```
 
